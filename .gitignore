@@ -1,0 +1,4 @@
+nauto/
+__pycache__/
+*.pyc
+.vscode/
